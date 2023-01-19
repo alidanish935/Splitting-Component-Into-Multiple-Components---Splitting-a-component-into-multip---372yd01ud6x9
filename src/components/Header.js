@@ -2,8 +2,8 @@ import React from 'react';
 
 const Header = (props) => {
     return (
-        <div id={props.id}>
-            {props.content}
+        <div id='header'>
+            <header id={props.id}>{props.content}</header>
         </div>
     )
 }
