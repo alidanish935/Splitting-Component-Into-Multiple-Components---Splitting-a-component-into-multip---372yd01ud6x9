@@ -9,6 +9,7 @@ function App() {
             <Main id="my-main" content="This is the main"/>
             <Footer id="my-footer" content="This is the footer"/>
         </div>
+        
     );
 }
 
